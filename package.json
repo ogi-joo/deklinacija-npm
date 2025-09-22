@@ -1,0 +1,31 @@
+{
+    "name": "deklinacija",
+    "version": "0.1.3",
+    "description": "Get vocative and sex of Serbian/Balkan given names with Cyrillic transliteration",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "license": "MIT",
+    "keywords": [
+        "serbian",
+        "names",
+        "vocative",
+        "deklinacija",
+        "cyrillic",
+        "vokativ api",
+        "deklinacija.com"
+    ],
+    "author": "Ognjen Jovanović",
+    "repository": {
+        "type": "git",
+        "url": "githttps://github.com/ogi-joo/deklinacija-npm.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ogi-joo/deklinacija-npm/issues"
+    },
+    "homepage": "https://deklinacija.com/",
+    "files": [
+        "index.js",
+        "index.d.ts",
+        "names.json"
+    ]
+}
