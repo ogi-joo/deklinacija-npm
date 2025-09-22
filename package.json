@@ -1,6 +1,6 @@
 {
     "name": "deklinacija",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "description": "Get vocative and sex of Serbian/Balkan given names with Cyrillic transliteration",
     "main": "index.js",
     "types": "index.d.ts",
