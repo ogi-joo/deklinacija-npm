@@ -1,5 +1,10 @@
 [
   {
+    "name": "Oskar",
+    "sex": "male",
+    "vocative": "Oskare"
+  },
+  {
     "name": "Lav",
     "sex": "male",
     "vocative": "Lave"
@@ -9002,7 +9007,7 @@
   {
     "name": "Špira",
     "sex": "male",
-    "vocative": "Špiro"
+    "vocative":"Špiro"
   },
   {
     "name": "Špiro",
